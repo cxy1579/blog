@@ -1,2 +1,2 @@
 # blog
-node.js（express）
+node.js（express）、MongoDB
